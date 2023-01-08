@@ -1,0 +1,4 @@
+The course that i used: 
+
+Course for folder 1: https://www.codecademy.com/learn/learn-lua
+
