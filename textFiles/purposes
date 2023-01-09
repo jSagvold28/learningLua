@@ -1,0 +1,29 @@
+You can use Lua for things like:
+
+Game development on Roblox
+
+Back end development.
+
+Roblox Game development:
+
+You will use most off the things in this repository. But you will have to intergrate with Roblox. Because in roblox some of what you will be doing is like:
+
+Part = game.workspace
+
+script = game.workspace.Part
+
+those were examples. But there will be more things in Roblox development that you will need to learn. If that is what you are doing. There is good courses on YouTube.
+
+How do i know this? 
+
+ I did roblox development for a few weeks.
+
+ Good links:
+
+ lua.org
+
+https://create.roblox.com/docs (for roblox game developers)
+
+YouTube.com for tutorials
+
+https://www.tutorialspoint.com/lua/lua_overview.htm
