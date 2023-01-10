@@ -7,7 +7,7 @@ local function loopFunction()
     local result1 = math.random(1, 15)
     print(result1)
     
-    os.execute("sleep 5")
+    os.execute("sleep 1")
 
     local result2 = math.random(16, 35)
     print(result2)
@@ -20,7 +20,7 @@ loopFunction()
 local result3 = math.random(1, 15)
 print(result3)
 
-os.execute("sleep 5")
+os.execute("sleep 1")
 
 local result4 = math.random(16, 35)
 print(result4)
