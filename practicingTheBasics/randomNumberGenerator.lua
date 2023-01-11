@@ -5,4 +5,7 @@ local function numberGenerator()
     local numberResults = lowRandomNumber, mediumRandomNumber, highNumberGenerator
 
     print(numberResults)
+  
 end
+
+numberGenerator()
