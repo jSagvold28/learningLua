@@ -14,3 +14,4 @@ local function generatePassword(length)
 end
 
 print("Your generated password is: " .. generatePassword(1))
+
